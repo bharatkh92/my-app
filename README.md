@@ -1,5 +1,5 @@
 # practice react project 
 # Figma pricing ui
-![desktop]('./images/desktop.png')
-![Mobile]('./images/mobile1.png')
-![]('./images/mobile2.png')
+![desktop](./src/images/desktop.png)
+![Mobile](./src/images/mobile_1.png)
+![](./src/images/mobile2.png)
